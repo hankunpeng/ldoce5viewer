@@ -5,14 +5,14 @@
 The LDOCE5 Viewer is an alternative dictionary viewer for the Longman Dictionary of Contemporary English 5th Edition (LDOCE 5).
 
 
-## Prerequisites
+## Prerequisites - Ubuntu 16.04.4
 
 ```bash
 sudo apt install -y pyqt4-dev-tools python-lxml python-whoosh python-gst0.10
 sudo pip install whoosh==2.5.7
 sudo apt install -y gstreamer0.10-plugins-good
 sudo apt install -y gstreamer0.10-plugins-ugly
-sudo apt install python-qt4-phonon
+sudo apt install -y python-qt4-phonon
 ```
 
 
