@@ -1,4 +1,4 @@
-# LDOCE5 Viewer
+# LDOCE5 Viewer forked from ciscorn/ldoce5viewer
 
 ![image](https://cloud.githubusercontent.com/assets/15828926/24585732/efb068a4-17bb-11e7-8294-7241f73d9ed8.png)
 
@@ -32,3 +32,5 @@ sudo make install
 3. Start the LDOCE5 Viewer.(e.g.: enter `ldoce5viewer` in the terminal)
 
 4. The application will ask you the location where you put 'ldoce5.data'.
+
+做了个 ldoce5.data.zip(1.6GB)，学习交流用，需要的可以联系我。
