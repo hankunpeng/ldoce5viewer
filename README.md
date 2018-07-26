@@ -34,4 +34,4 @@ sudo make install
 4. The application will ask you the location where you put 'ldoce5.data'.
 
   
-*做了个 **ldoce5.data.zip(1.6GB)**，学习交流用，需要的可以联系我。*
+***ldoce5.data.zip(1.6GB)***，学习交流用，需要的可以联系我。
