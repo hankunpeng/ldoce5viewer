@@ -29,9 +29,13 @@ sudo make install
 
 2. Copy the 'ldoce5.data' directory from the LDOCE5 DVD-ROM to an arbitrary location in your HDD or SSD.
 
-3. Start the LDOCE5 Viewer.(e.g.: enter `ldoce5viewer` in the terminal)
+3. Start the LDOCE5 Viewer.
+
+```bash
+ldoce5viewer // and Lock to Launcher
+```
 
 4. The application will ask you the location where you put 'ldoce5.data'.
-
+  
   
 *咳，咳，**ldoce5.data.zip(1.6GB)**，学习交流用，需要的可以联系我。*
